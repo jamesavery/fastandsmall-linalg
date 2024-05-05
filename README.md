@@ -1,2 +1,2 @@
 # fastandsmall-linalg
-Fast linear algebra on many small matrices.
+Fast parallel linear algebra on many small matrices for CPU and GPU.
